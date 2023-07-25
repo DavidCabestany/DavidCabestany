@@ -66,7 +66,11 @@ I specialize in low-energy algorithms and Green-AI solutions for natural languag
 - Git
 - LaTeX
 - UNIX
+
+  
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DavidCabestany&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ---
 
 ## 🌎 Languages
