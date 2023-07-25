@@ -57,8 +57,8 @@ I specialize in low-energy algorithms and Green-AI solutions for natural languag
 
 ## 💻 Skills
 
-- Python (pandas, numpy, SkLearn, SpaCy)
-- Deep Learning (TensorFlow, Transformers)
+- Python
+- Deep Learning
 - Machine Learning
 - Speech Processing
 - R
@@ -66,7 +66,7 @@ I specialize in low-energy algorithms and Green-AI solutions for natural languag
 - Git
 - LaTeX
 - UNIX
-
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DavidCabestany&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 🌎 Languages
@@ -74,8 +74,6 @@ I specialize in low-energy algorithms and Green-AI solutions for natural languag
 - Catalan
 - Spanish
 - English
-- 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DavidCabestany&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
