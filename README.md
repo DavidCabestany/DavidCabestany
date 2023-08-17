@@ -1,6 +1,6 @@
-# 👋 Welcome to my Github, I am NLP Engineer!
+# 👋 Hello, I am David, NLP Engineer and Data Scientist!
 
-I specialize in low-energy algorithms and Green-AI solutions for natural language processing. I have a vast experience in applying NLP techniques for mental health classification and am always seeking opportunities to contribute to cutting-edge projects utilizing my NLP engineering skills. Let's connect and create the future!
+I specialize in low-energy algorithms and Green-AI solutions for natural language processing. I apply NLP techniques for mental health classification and seeking opportunities to contribute to the State of the Art.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidCabestany)](https://github.com/anuraghazra/github-readme-stats) 
 
