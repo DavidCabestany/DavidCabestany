@@ -17,9 +17,16 @@ I specialize in low-energy algorithms and Green-AI solutions for natural languag
 
 ---
 
-## 💼 Professional Experience
+## 🦎 Gecko Bot
+
+- International B2B relationships
+    - Malta
+    - United Kingdom  
+
+- ## 💼 Professional Experience
 
 - **Director**, Gecko Bot Ltd `Current Role`
+- **Full-stack Developer**, Gecko Bot Ltd `Current Role`
 - **NLP Research Engineer**, Vicomtech `Feb 2023 - June 2023`
 - **Junior Research Engineer**, Barcelona Supercomputing Center `Aug 2021 - Feb 2022`
 - **Conversational Analyst**, Review Pro, Shiji Group `Jun 2021 - Aug 2021`
