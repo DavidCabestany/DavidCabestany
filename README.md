@@ -1,6 +1,6 @@
 # 👋 Hello, I am David, NLP Engineer and Data Scientist. 
 
-# I am entrepeneur, I established my own company, Gecko Bot Ltd!
+# I am an entrepeneur, working B2B with my start-up, Gecko Bot Ltd!
 
 I specialize in low-energy algorithms and Green-AI solutions for natural language processing. I apply NLP techniques for mental health classification and seek opportunities to contribute to the State of the Art.
 
