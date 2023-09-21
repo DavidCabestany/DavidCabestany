@@ -1,6 +1,8 @@
-# 👋 Hello, I am David, NLP Engineer and Data Scientist!
+# 👋 Hello, I am David, NLP Engineer and Data Scientist. 
 
-I specialize in low-energy algorithms and Green-AI solutions for natural language processing. I apply NLP techniques for mental health classification and seeking opportunities to contribute to the State of the Art.
+# I am entrepeneur, I established my own company, Gecko Bot Ltd!
+
+I specialize in low-energy algorithms and Green-AI solutions for natural language processing. I apply NLP techniques for mental health classification and seek opportunities to contribute to the State of the Art.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidCabestany)](https://github.com/anuraghazra/github-readme-stats) 
 
@@ -17,6 +19,7 @@ I specialize in low-energy algorithms and Green-AI solutions for natural languag
 
 ## 💼 Professional Experience
 
+- **Director**, Gecko Bot Ltd `Current Role`
 - **NLP Research Engineer**, Vicomtech `Feb 2023 - June 2023`
 - **Junior Research Engineer**, Barcelona Supercomputing Center `Aug 2021 - Feb 2022`
 - **Conversational Analyst**, Review Pro, Shiji Group `Jun 2021 - Aug 2021`
@@ -70,7 +73,6 @@ I specialize in low-energy algorithms and Green-AI solutions for natural languag
   
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DavidCabestany&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ---
 
 ## 🌎 Languages
@@ -88,7 +90,7 @@ I specialize in low-energy algorithms and Green-AI solutions for natural languag
 
 ---
 
-Reach out to me for collaborations, projects or just for a chat! You can find me at [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dcabesma)  or 
+Reach out to me for collaborations, projects, or just for a chat! You can find me at [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dcabesma)  or 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/david-cabestany/) or [Email](mailto:dcabesma@gmail.com)
 
 ---
