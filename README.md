@@ -19,8 +19,10 @@ I specialize in low-energy algorithms and Green-AI solutions for natural languag
 
 ## 🦎 Gecko Bot
 
-- International B2B relationships
+- International B2B relationships:
+    - Austria
     - Malta
+    - Spain
     - United Kingdom  
 
 - ## 💼 Professional Experience
