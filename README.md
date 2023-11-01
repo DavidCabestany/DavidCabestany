@@ -61,8 +61,8 @@ I specialize in low-energy algorithms and Green-AI solutions for natural languag
 
 ## 📚 Publications
 
-- **Accepted for publication:** _Text Classification For Early Detection of Eating Disorders and Depression in Spanish_
-- **DaMinCi at IberLEF-2022 DETESTS task:** _Detection and Classification of Racial Stereotypes in Spanish_
+-  _Text Classification For Early Detection of Eating Disorders and Depression in Spanish_
+- DaMinCi at IberLEF-2022 DETESTS task: _Detection and Classification of Racial Stereotypes in Spanish_
 - **European Language Equality:** _Report for Spanish Language_
 
 ---
