@@ -41,19 +41,16 @@ Entrepreneurial NLP Engineer and Data Scientist leading Gecko Bot Ltd. Specializ
 
 ### 🌐 Code Languages
 
+![Python](https://img.shields.io/badge/-Python-3776AB.svg?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626.svg?style=flat&logo=Jupyter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB.svg?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC.svg?style=flat&logo=c&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6.svg?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![CUDA](https://img.shields.io/badge/-CUDA-76B900.svg?style=flat&logo=nvidia&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8.svg?style=flat&logo=mathworks&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3.svg?style=flat&logo=r&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats-lemon-seven.vercel.app/api/top-langs/?username=DavidCabestany&langs_count=8&theme=shadow_green)
+![Top Langs](https://github-readme-stats-lemon-seven.vercel.app/api/top-langs/?username=DavidCabestany&langs_count=8&exclude_repo=HAPLAP_Computational_syntax,Haplap_Morphology_,Haplap_Applications_1_,&theme=shadow_green)
 
 ---
 
