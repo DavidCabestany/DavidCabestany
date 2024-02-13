@@ -37,7 +37,7 @@ Entrepreneurial NLP Engineer and Data Scientist at the helm of Gecko Bot Ltd, sp
 
 Cultivating international B2B relationships across Austria, Malta, Spain, and the UK.
 
-    ![David's GitHub stats](https://github-readme-stats-lemon-seven.vercel.app/api?username=DavidCabestany&show_icons=true&count_private=true&theme=shadow_green)
+![David's GitHub stats](https://github-readme-stats-lemon-seven.vercel.app/api?username=DavidCabestany&show_icons=true&count_private=true&theme=shadow_green)
 
 ---
 
@@ -99,7 +99,7 @@ I'm open to collaborations, projects, or just a chat about AI and technology. Re
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:dcabesma@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat-square&logo=GoogleScholar&logoColor=white)](https://scholar.google.com/citations?user=habwl94AAAAJ&hl=en)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DavidCabestany&theme=whatsapp-light2&card_width=380&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DavidCabestany&theme=whatsapp-light2&card_width=380)](https://git.io/streak-stats)
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=DavidCabestany)
