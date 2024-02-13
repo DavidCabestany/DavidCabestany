@@ -5,20 +5,43 @@
 
 🔍 **About Me**
 
-Entrepreneurial NLP Engineer and Data Scientist at the helm of Gecko Bot Ltd, specializing in low-energy algorithms and Green-AI. I'm driven to innovate and contribute to the State of the Art, applying NLP techniques for impactful projects such as mental health classification.
+Entrepreneurial NLP Engineer and Data Scientist leading Gecko Bot Ltd. Specializing in low-energy algorithms and Green-AI, I'm committed to innovation and applying NLP for impactful projects, including mental health classification.
 
 ---
 
-🔧 **Skills**
-- **Languages:**
- 
-   ![Top Langs](https://github-readme-stats-lemon-seven.vercel.app/api/top-langs/?username=DavidCabestany&hide=jupyter%20notebook&&theme=shadow_green)
-    
-- **Frameworks:** TensorFlow, PyTorch, SKLearn
-  
-- **Tools:** Docker, Git, LaTeX, UNIX
-- **Databases:** PostgreSQL, SQL
-- **Development:** NLP Engineer, Full-stack Development
+🔧 **Skills Overview**
+
+### 🚀 AI & Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+![SKLearn](https://img.shields.io/badge/-SKLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![YOLO](https://img.shields.io/badge/-YOLO-black?style=flat&logo=yolo&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![GPT-4](https://img.shields.io/badge/-GPT--4-9cf?style=flat&logo=openai&logoColor=white)
+![BERT](https://img.shields.io/badge/-BERT-orange?style=flat&logo=bert&logoColor=white)
+
+### 🗃️ Database Management
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+
+### 🧰 Development Tools
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=LaTeX&logoColor=white)
+![UNIX](https://img.shields.io/badge/-UNIX-333333?style=flat&logo=linux&logoColor=white)
+
+### 💻 Frontend & UI Design
+
+![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### Code languages
+
+![Top Langs](https://github-readme-stats-lemon-seven.vercel.app/api/top-langs/?username=DavidCabestany&langs_count=8&hide=jupyter%20notebook&hide-title=true&theme=shadow_green)
 
 ---
 
