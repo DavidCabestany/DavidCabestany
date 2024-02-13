@@ -41,7 +41,7 @@ Entrepreneurial NLP Engineer and Data Scientist leading Gecko Bot Ltd. Specializ
 
 ### Code languages
 
-![Top Langs](https://github-readme-stats-lemon-seven.vercel.app/api/top-langs/?username=DavidCabestany&langs_count=8&hide=jupyter%20notebook&hide-title=true&theme=shadow_green)
+![Top Langs](https://github-readme-stats-lemon-seven.vercel.app/api/top-langs/?username=DavidCabestany&langs_count=8&theme=shadow_green)
 
 ---
 
