@@ -1,105 +1,106 @@
-# 👋 Hello, I am David, NLP Engineer and Data Scientist. 
-
-# I am an entrepeneur, working B2B with my start-up, Gecko Bot Ltd!
-
-I specialize in low-energy algorithms and Green-AI solutions for natural language processing. I apply NLP techniques for mental health classification and seek opportunities to contribute to the State of the Art.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidCabestany)](https://github.com/anuraghazra/github-readme-stats) 
+# David Cabestany
+#### NLP Engineer and Data Scientist | Founder of Gecko Bot Ltd
 
 ---
 
-## 🎓 Education
+🔍 **About Me**
 
-- **M.Sc. Language Analysis and Processing**, University of Basque Country `2021-2023`
-- **BA in Linguistics - Mention in Spanish and Russian**, University of Barcelona `2017-2021`
-- **HNC (CFGS) - 3D Motion, video-games and Interactive environments**, Ilerna Centre d’Estudis `2013-2015`
-- **VET (CFGM) - Telecommunication Facilities**, Caparrella Institute `2009-2010`
+Entrepreneurial NLP Engineer and Data Scientist at the helm of Gecko Bot Ltd, specializing in low-energy algorithms and Green-AI. I'm driven to innovate and contribute to the State of the Art, applying NLP techniques for impactful projects such as mental health classification.
 
 ---
 
-## 🦎 Gecko Bot
+🔧 **Skills**
 
-- International B2B relationships:
-    - Austria
-    - Malta
-    - Spain
-    - United Kingdom
+- **Languages & Frameworks:** Python, R, TensorFlow, PyTorch, SKLearn
+  
+- **Tools:** Docker, Git, LaTeX, UNIX
+- **Databases:** PostgreSQL, SQL
+- **Development:** NLP Engineer, Full-stack Development
 
-- ## 💼 Professional Experience
+  ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidCabestany&count_private=true&show_icons=true&theme=shadow_green )
 
-- **Director**, Gecko Bot Ltd `Current Role`
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCabestany&hide=jupyter%20notebook&layout=compact&theme=shadow_green )
+
+
+---
+
+🏆 **Achievements**
+
+- 🥇 1st place in 2nd Task of MentalRiskES 2023
+- 🏅 4th place in 1st Task of MentalRiskES 2023
+- 🎖 6th place in the shared task DETESTS - IberLEF 2022
+- 🏆 Award for Final Bachelor Project (TFG)
+- 🏵 Awards in Machine Learning and NLP Applications
+- 🎓 Honors in Research Methods, Corpus Linguistics, and Programming Techniques for NLP
+
+---
+
+🌐 **Global Engagement**
+
+Cultivating international B2B relationships across Austria, Malta, Spain, and the UK.
+
+---
+
+📈 **Experience**
+
+- **Director**, Gecko Bot Ltd `Current`
 - **Full-stack Developer**, Red Acre Ltd `Oct 2023 - Feb 2024`
 - **NLP Research Engineer**, Vicomtech `Feb 2023 - June 2023`
 - **Junior Research Engineer**, Barcelona Supercomputing Center `Aug 2021 - Feb 2022`
-- **Conversational Analyst**, Review Pro, Shiji Group `Jun 2021 - Aug 2021`
+- **Conversational Analyst**, Review Pro at Shiji Group `Jun 2021 - Aug 2021`
 - **Research Assistant**, Servei de Tecnologia Linguistica UB `Sep 2020 - Sep 2021`
 
 ---
 
-## 🏅 Awards and Accomplishments
+🎓 **Education**
 
-- 1st place in 2nd Task of MentalRiskES 2023
-- 4th place in 1st Task of MentalRiskES 2023
-- 6th place in the shared task DETESTS - IberLEF 2022
-- Award for Final Bachelor Project (TFG)
-- Awards in Machine Learning and NLP Applications
-- Honors in Research Methods, Corpus Linguistics, and Programming Techniques for NLP
+- M.Sc. Language Analysis and Processing, University of Basque Country `2021-2023`
+- BA in Linguistics - Mention in Spanish and Russian, University of Barcelona `2017-2021`
+- HNC (CFGS) - 3D Motion, video-games and Interactive environments, Ilerna Centre d’Estudis `2013-2015`
+- VET (CFGM) - Telecommunication Facilities, Caparrella Institute `2009-2010`
 
 ---
 
-## 🚀 Further Training
+📚 **Publications**
 
-- **Building Conversational Experiences with Dialogflow**, Certified Course by Google Cloud Training `2021`
-- **Introduction to Machine Learning**, Certified Course by Duke University `2020`
-- **Mathematical Thinking**, Certified Course by Stanford University `2020`
-- **Introduction to Logic**, Certified Course by Stanford University `2020`
-- **Python 3 Programming**, Certified Course by Michigan University `2020`
-- **Create your chatbot with Rasa and Python**, Certified Course by Coursera Project Network `2020`
-- **Python for Linguists**, Certified Course by IDP - STeL (Universitat de Barcelona) `2019`
-
----
-
-## 📚 Publications
-
--  _Text Classification For Early Detection of Eating Disorders and Depression in Spanish_
+- _Text Classification For Early Detection of Eating Disorders and Depression in Spanish_
 - DaMinCi at IberLEF-2022 DETESTS task: _Detection and Classification of Racial Stereotypes in Spanish_
 - **European Language Equality:** _Report for Spanish Language_
 
 ---
 
-## 💻 Skills
+🚀 **Further Training**
 
-- Python
-- Deep Learning
-- Machine Learning
-- Speech Processing
-- R
-- Docker
-- Git
-- LaTeX
-- UNIX
-
-  
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DavidCabestany&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- Certified courses in Dialogflow, Machine Learning, and Python programming among others.
 
 ---
 
-## 🌎 Languages
+🌎 **Languages**
 
-- Catalan
-- Spanish
-- English
-
----
-
-## 💡 Interests
-
-- **Professional**: Green AI Programming, Natural Language Understanding, Natural Language Processing, Deep Learning, Machine Learning, Artificial Intelligence, Big Data Analysis and Processing, Author Profiling
-- **Personal**: Video-Art, AI-Generated Art, cooking and gastronomy, travelling, quality time with family, skateboarding, museums
+- Catalan (Native)
+- Spanish (Native)
+- English (Fluent)
 
 ---
 
-Reach out to me for collaborations, projects, or just for a chat! You can find me at [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dcabesma)  or 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/david-cabestany/) or [Email](mailto:dcabesma@gmail.com)
+💡 **Interests**
+
+**Professional:** Green AI Programming, NLP, Deep Learning, Machine Learning, AI, Big Data Analysis
+**Personal:** Video-Art, AI-Generated Art, cooking, travel, family, skateboarding, museums
 
 ---
+
+🤝 **Connect With Me**
+
+I'm open to collaborations, projects, or just a chat about AI and technology. Reach out to me on:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/david-cabestany/)
+[![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@dcabesma)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:dcabesma@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat-square&logo=GoogleScholar&logoColor=white)](https://scholar.google.com/citations?user=habwl94AAAAJ&hl=en)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DavidCabestany&theme=whatsapp-light2&card_width=380&hide_longest_streak=true)](https://git.io/streak-stats)
+
+---
+![Profile Views](https://komarev.com/ghpvc/?username=DavidCabestany)
