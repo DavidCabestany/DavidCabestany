@@ -50,7 +50,7 @@ Entrepreneurial NLP Engineer and Data Scientist leading Gecko Bot Ltd. Specializ
 ![R](https://img.shields.io/badge/-R-276DC3.svg?style=flat&logo=r&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats-lemon-seven.vercel.app/api/top-langs/?username=DavidCabestany&langs_count=8&exclude_repo=HAPLAP_Computational_syntax,Haplap_Morphology_,Haplap_Applications_1_,&theme=shadow_green)
+![Top Langs](https://github-readme-stats-lemon-seven.vercel.app/api/top-langs/?username=DavidCabestany&langs_count=8&exclude_repo=HAPLAP_Computational_syntax,Haplap_Morphology_,Haplap_Applications_1_,Haplap_Deep_Learning_,&theme=shadow_green)
 
 ---
 
