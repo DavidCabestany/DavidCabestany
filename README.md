@@ -16,11 +16,10 @@ Entrepreneurial NLP Engineer and Data Scientist leading Gecko Bot Ltd. Specializ
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
 ![SKLearn](https://img.shields.io/badge/-SKLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
 ![YOLO](https://img.shields.io/badge/-YOLO-black?style=flat&logo=yolo&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![GPT-4](https://img.shields.io/badge/-GPT--4-9cf?style=flat&logo=openai&logoColor=white)
 
+![GPT-4](https://img.shields.io/badge/-GPT--4-9cf?style=flat&logo=openai&logoColor=white)
 ![BERT](https://img.shields.io/badge/-BERT-orange?style=flat&logo=bert&logoColor=white)
 ![Dialogflow](https://img.shields.io/badge/-Dialogflow-%23f0f0f0?style=flat&logo=dialogflow&logoColor=orange)
 ![Dialogflow cx](https://img.shields.io/badge/-Dialogflow%20CX-%23f0f0f0?style=flat&logo=dialogflow&logoColor=blue)
@@ -54,8 +53,25 @@ Entrepreneurial NLP Engineer and Data Scientist leading Gecko Bot Ltd. Specializ
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3.svg?style=flat&logo=r&logoColor=white)
 
-
 ![Top Langs](https://github-readme-stats-lemon-seven.vercel.app/api/top-langs/?username=DavidCabestany&langs_count=8&exclude_repo=HAPLAP_Computational_syntax,Haplap_Morphology_,Haplap_Applications_1_,Haplap_Deep_Learning_,,&theme=shadow_green)
+
+---
+
+🚁 **UAS Certifications & Equipment**
+
+As an extension of my interest in cutting-edge technology, I have pursued and obtained several certifications in the field of Unmanned Aircraft Systems (UAS), enhancing my capabilities in aerial data collection and analysis. 
+
+My certifications and equipment include:
+
+- **A1 Certificate**: Demonstrates proficiency in flying UAS in the 'open' category in subcategory A1.
+- **A3 Certificate**: Confirms my ability to operate up to 25Kg UAS in the 'open' category in subcategory A3.
+- **European UAS Operator License Registration**: Official registration as a UAS pilot, allowing me to legally operate drones under the open category regulations.
+- **Airdata UAV Badge**:
+
+    [![Airdata UAV|Drone Safety Verified Badge](https://certificates.airdata.com/badge?i=NgZBgp&r=tFkG&t=5&m=3&size=8&c=0)](https://certificates.airdata.com/NgZBgp)
+
+
+These qualifications and resources enable me to leverage aerial technology for a broad range of applications, from environmental monitoring to advanced AI-driven analyses.
 
 ---
 
@@ -91,10 +107,10 @@ Cultivating international B2B relationships across Austria, Malta, Spain, and th
 
 🎓 **Education**
 
-- M.Sc. Language Analysis and Processing, University of Basque Country `2021-2023`
-- BA in Linguistics - Mention in Spanish and Russian, University of Barcelona `2017-2021`
-- HNC (CFGS) - 3D Motion, video-games and Interactive environments, Ilerna Centre d’Estudis `2013-2015`
-- VET (CFGM) - Telecommunication Facilities, Caparrella Institute `2009-2010`
+- **M.Sc. Language Analysis and Processing**, University of Basque Country `2021-2023`
+- **BA in Linguistics** - Mention in Spanish and Russian, University of Barcelona `2017-2021`
+- **HNC (CFGS)** - 3D Motion, video-games and Interactive environments, Ilerna Centre d’Estudis `2013-2015`
+- **VET (CFGM)** - Telecommunication Facilities, Caparrella Institute `2009-2010`
 
 ---
 
@@ -102,7 +118,7 @@ Cultivating international B2B relationships across Austria, Malta, Spain, and th
 
 - _Text Classification For Early Detection of Eating Disorders and Depression in Spanish_
 - DaMinCi at IberLEF-2022 DETESTS task: _Detection and Classification of Racial Stereotypes in Spanish_
-- **European Language Equality:** _Report for Spanish Language_
+- European Language Equality: _Report for Spanish Language_
 
 ---
 
