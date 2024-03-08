@@ -5,7 +5,9 @@
 
 🔍 **About Me**
 
-Entrepreneurial NLP Engineer and Data Scientist leading Gecko Bot Ltd. Specializing in low-energy algorithms and Green-AI, I'm committed to innovation and applying NLP for impactful projects, including mental health classification.
+Entrepreneurial NLP Engineer and Data Scientist leading Gecko Bot Ltd. 
+
+Specializing in low-energy algorithms and Green-AI in NLP and Computer Vision.
 
 ---
 
