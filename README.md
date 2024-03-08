@@ -11,7 +11,7 @@ Specializing in low-energy algorithms and Green-AI in NLP and Computer Vision.
 
 ---
 
-🔧 **Skills Overview**
+## 🔧 **Skills Overview**
 
 ### 🚀 AI & Machine Learning
 
@@ -19,7 +19,7 @@ Specializing in low-energy algorithms and Green-AI in NLP and Computer Vision.
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
 ![SKLearn](https://img.shields.io/badge/-SKLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![YOLO](https://img.shields.io/badge/-YOLO-black?style=flat&logo=yolo&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
 
 ![GPT-4](https://img.shields.io/badge/-GPT--4-9cf?style=flat&logo=openai&logoColor=white)
 ![BERT](https://img.shields.io/badge/-BERT-orange?style=flat&logo=bert&logoColor=white)
@@ -41,6 +41,7 @@ Specializing in low-energy algorithms and Green-AI in NLP and Computer Vision.
 
 ### 💻 Frontend & UI Design
 
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=mui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -51,6 +52,7 @@ Specializing in low-energy algorithms and Green-AI in NLP and Computer Vision.
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626.svg?style=flat&logo=Jupyter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6.svg?style=flat&logo=typescript&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3.svg?style=flat&logo=r&logoColor=white)
@@ -59,21 +61,23 @@ Specializing in low-energy algorithms and Green-AI in NLP and Computer Vision.
 
 ---
 
-🚁 **UAS Certifications & Equipment**
+### 🚁 UAS Knowledge and Credentials
 
-As an extension of my interest in cutting-edge technology, I have pursued and obtained several certifications in the field of Unmanned Aircraft Systems (UAS), enhancing my capabilities in aerial data collection and analysis. 
+My passion for cutting-edge technologies extends into the domain of Unmanned Aircraft Systems (UAS), where I have acquired key certifications 
+and licenses that enable me to leverage drones for innovative applications in data collection and analysis.
 
-My certifications and equipment include:
+#### Certifications
+- **A1 Certificate**: Proficiency in operating UAS in subcategory A1 of the 'open' category, suitable for flights close to people.
+- **A3 Certificate**: Capability to pilot up to 25Kg UAS in subcategory A3 of the 'open' category, designed for remote operations.
+- **European UAS Operator License**: Official registration permitting legal drone operations under European open category regulations.
 
-- **A1 Certificate**: Demonstrates proficiency in flying UAS in the 'open' category in subcategory A1.
-- **A3 Certificate**: Confirms my ability to operate up to 25Kg UAS in the 'open' category in subcategory A3.
-- **European UAS Operator License Registration**: Official registration as a UAS pilot, allowing me to legally operate drones under the open category regulations.
-- **Airdata UAV Badge**:
+#### Recognition
+[![Airdata UAV|Drone Safety Verified Badge](https://certificates.airdata.com/badge?i=NgZBgp&r=tFkG&t=5&m=3&size=8&c=0)](https://certificates.airdata.com/NgZBgp)
 
-    [![Airdata UAV|Drone Safety Verified Badge](https://certificates.airdata.com/badge?i=NgZBgp&r=tFkG&t=5&m=3&size=8&c=0)](https://certificates.airdata.com/NgZBgp)
+#### Sample Project
 
-
-These qualifications and resources enable me to leverage aerial technology for a broad range of applications, from environmental monitoring to advanced AI-driven analyses.
+For a glimpse into how I apply my UAS knowledge in AI projects,
+please check my ([drone-smart-vision](https://github.com/DavidCabestany/smart-drone-vision)) repository.
 
 ---
 
