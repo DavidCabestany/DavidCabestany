@@ -16,10 +16,15 @@ Entrepreneurial NLP Engineer and Data Scientist leading Gecko Bot Ltd. Specializ
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
 ![SKLearn](https://img.shields.io/badge/-SKLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![YOLO](https://img.shields.io/badge/-YOLO-black?style=flat&logo=yolo&logoColor=white)
+
+![YOLO](https://img.shields.io/badge/-YOLO-black?style=flat&logo=yolo&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![GPT-4](https://img.shields.io/badge/-GPT--4-9cf?style=flat&logo=openai&logoColor=white)
+
 ![BERT](https://img.shields.io/badge/-BERT-orange?style=flat&logo=bert&logoColor=white)
+![Dialogflow](https://img.shields.io/badge/-Dialogflow-%23f0f0f0?style=flat&logo=dialogflow&logoColor=orange)
+![Dialogflow cx](https://img.shields.io/badge/-Dialogflow%20CX-%23f0f0f0?style=flat&logo=dialogflow&logoColor=blue)
+
 
 ### 🗃️ Database Management
 
@@ -118,6 +123,7 @@ Cultivating international B2B relationships across Austria, Malta, Spain, and th
 💡 **Interests**
 
 **Professional:** Green AI Programming, NLP, Deep Learning, Machine Learning, AI, Big Data Analysis
+
 **Personal:** Video-Art, AI-Generated Art, cooking, travel, family, skateboarding, museums
 
 ---
