@@ -61,25 +61,6 @@ Specializing in low-energy algorithms and Green-AI in NLP and Computer Vision.
 
 ---
 
-### 🚁 UAS Knowledge and Credentials
-
-My passion for cutting-edge technologies extends into the domain of Unmanned Aircraft Systems (UAS), where I have acquired key certifications 
-and licenses that enable me to leverage drones for innovative applications in data collection and analysis.
-
-#### Certifications
-- **A1 Certificate**: Proficiency in operating UAS in subcategory A1 of the 'open' category, suitable for flights close to people.
-- **A3 Certificate**: Capability to pilot up to 25Kg UAS in subcategory A3 of the 'open' category, designed for remote operations.
-- **European UAS Operator License**: Official registration permitting legal drone operations under European open category regulations.
-
-#### Recognition
-[![Airdata UAV|Drone Safety Verified Badge](https://certificates.airdata.com/badge?i=NgZBgp&r=tFkG&t=5&m=3&size=8&c=0)](https://certificates.airdata.com/NgZBgp)
-
-#### Sample Project
-
-For a glimpse into how I apply my UAS knowledge in AI projects,
-please check my ([drone-smart-vision](https://github.com/DavidCabestany/smart-drone-vision)) repository.
-
----
 
 🏆 **Achievements**
 
@@ -131,6 +112,26 @@ Cultivating international B2B relationships across Austria, Malta, Spain, and th
 🚀 **Further Training**
 
 - Certified courses in Dialogflow, Machine Learning, and Python programming among others.
+
+---
+
+ 🚁 **UAS Knowledge and Credentials**
+
+My passion for cutting-edge technologies extends into the domain of Unmanned Aircraft Systems (UAS), where I have acquired key certifications 
+and licenses that enable me to leverage drones for innovative applications in data collection and analysis.
+
+#### Certifications
+- **A1 Certificate**: Proficiency in operating UAS in subcategory A1 of the 'open' category, suitable for flights close to people.
+- **A3 Certificate**: Capability to pilot up to 25Kg UAS in subcategory A3 of the 'open' category, designed for remote operations.
+- **European UAS Operator License**: Official registration permitting legal drone operations under European open category regulations.
+
+#### Recognition
+[![Airdata UAV|Drone Safety Verified Badge](https://certificates.airdata.com/badge?i=NgZBgp&r=tFkG&t=5&m=3&size=8&c=0)](https://certificates.airdata.com/NgZBgp)
+
+#### Sample Project
+
+For a glimpse into how I apply my UAS knowledge in AI projects,
+please check my ([drone-smart-vision](https://github.com/DavidCabestany/smart-drone-vision)) repository.
 
 ---
 
